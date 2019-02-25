@@ -1,0 +1,4 @@
+Josiah Graham
+https://github.com/JosiahGraham/Lab_Website_2.git
+
+Bug was found in register page, the menus under current student do not fully collapse when clicking no after clicking yes.
